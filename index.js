@@ -38,7 +38,7 @@ module.exports = {
         navigation: {
             page_out_of_boundaries: 'Страница %{page} вне границ',
             page_out_from_end: 'Невозможно переместиться дальше последней страницы',
-            page_out_from_begin: 'Невозможно переместиться перед первой страницей',
+            page_out_from_begin: 'Номер страницы не может быть меньше 1',
             page_range_info: '%{offsetBegin}-%{offsetEnd} из %{total}',
             next: 'Следующая',
             prev: 'Предыдущая',
@@ -47,7 +47,7 @@ module.exports = {
             username: 'Имя пользователя',
             password: 'Пароль',
             sign_in: 'Войти',
-            sign_in_error: 'Аутентификация не успешна, попробуйте снова',
+            sign_in_error: 'Ошибка аутентификации, попробуйте снова',
             logout: 'Выйти',
         },
         notification: {

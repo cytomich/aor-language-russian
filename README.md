@@ -1,6 +1,6 @@
 # Russian Translations for Admin-on-rest
 
-French translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
+Russian translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
 
 ## Installation
 
