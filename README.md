@@ -24,4 +24,4 @@ const messages = {
 
 ## License
 
-This translation is licensed under the [MIT Licence](LICENSE).
+This translation is licensed under the [MIT Licence](LICENSE.md).
