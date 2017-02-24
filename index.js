@@ -55,6 +55,7 @@ module.exports = {
             created: 'Элемент создан',
             deleted: 'Элемент удален',
             item_doesnt_exist: 'Элемент не существует',
+            http_error: 'Ошибка сервера',
         },
         validation: {
             required: 'Обязательно для заполнения',
