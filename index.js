@@ -22,6 +22,7 @@ module.exports = {
             show: '%{name} #%{id}',
             create: 'Создать %{name}',
             delete: 'Удалить %{name} #%{id}',
+            dashboard: 'Главная',
         },
         input: {
             image: {
@@ -59,6 +60,12 @@ module.exports = {
         },
         validation: {
             required: 'Обязательно для заполнения',
+            minLength: 'Минимальное кол-во символов %{min}',
+            maxLength: 'Максимальное кол-во символов %{max}',
+            minValue: 'Минимальное значение %{min}',
+            maxValue: 'Значение может быть %{max} или меньше',
+            number: 'Должно быть цифрой',
+            email: 'Не корректный email',
         },
     },
 };
