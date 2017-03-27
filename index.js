@@ -17,7 +17,7 @@ module.exports = {
             false: 'Нет',
         },
         page: {
-            list: 'Список %{name}',
+            list: '%{name}',
             edit: '%{name} #%{id}',
             show: '%{name} #%{id}',
             create: 'Создать %{name}',
