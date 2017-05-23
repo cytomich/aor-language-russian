@@ -37,6 +37,7 @@ module.exports = {
             about: 'Справка',
         },
         navigation: {
+            no_results: 'Результатов не найдено',
             page_out_of_boundaries: 'Страница %{page} вне границ',
             page_out_from_end: 'Невозможно переместиться дальше последней страницы',
             page_out_from_begin: 'Номер страницы не может быть меньше 1',
