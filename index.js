@@ -11,6 +11,7 @@ module.exports = {
             refresh: 'Обновить',
             add_filter: 'Добавить фильтр',
             remove_filter: 'Убрать фильтр',
+            back: 'Назад',
         },
         boolean: {
             true: 'Да',
@@ -23,6 +24,7 @@ module.exports = {
             create: 'Создать %{name}',
             delete: 'Удалить %{name} #%{id}',
             dashboard: 'Главная',
+            not_found: 'Страница не найдена',
         },
         input: {
             image: {
@@ -35,6 +37,7 @@ module.exports = {
             no: 'Нет',
             are_you_sure: 'Вы уверены?',
             about: 'Справка',
+            not_found: 'Вы набрали неверный URL-адрес или перешли по некорректной ссылке',
         },
         navigation: {
             no_results: 'Результатов не найдено',
